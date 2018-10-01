@@ -10,7 +10,7 @@ parameters through space within a single simulation, as done in this repository.
 ## Simulation output
 
 Parameters are as in `gray_scott.jl`, which implements a finite-difference
-method. The final state is shown below. The transient response in shown in
+method. The final state is shown below. The transient response is shown in
 `gray_scott.mp4`.
 
 ![truth](gray_scott.jpg "Final State")
