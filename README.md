@@ -1,4 +1,4 @@
-# Simulation of the Gray-Scott Equations with Spatial Inhomogeneity in Julia
+# Simulation of the Gray-Scott Equations with Spatial Heterogeneity in Julia
 
 The [Gray-Scott](http://mrob.com/pub/comp/xmorphia/) system comprises of two
 coupled partial differential equations. Small changes in its parameters can
